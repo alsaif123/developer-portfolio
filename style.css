@@ -8,8 +8,9 @@ h1{
 .ok{ 
     color: orange;
 }
-section{
-    display: flex; margin-bottom: 150px;
+.felxiable-container{ 
+    display: flex;
+     margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
